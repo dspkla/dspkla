@@ -117,7 +117,7 @@ As an enterprise **DevSecOps & Cloud Security Consultant**, I partner with engin
 | :--- | :--- | :--- |
 | [**`infracode`**](https://github.com/dspkla/infracode) | **Enterprise AWS & EKS Architecture as Code**<br>Modular Terraform infrastructure implementing multi-tier VPC, private EKS clusters, IAM least-privilege scoping, and encrypted remote state management. | • Checkov & tfsec static analysis<br>• Trivy IaC configuration audit<br>• Automated PR risk gatekeeper |
 | [**`gitops-kubernetes-cicd`**](https://github.com/dspkla/gitops-kubernetes-cicd) | **End-to-End Secure GitOps Delivery System**<br>Hardened containerized microservices managed via declarative ArgoCD synchronization, automated Helm packaging, and rootless execution. | • Multi-stage non-root container builds<br>• Automated layer vulnerability scans<br>• Zero-trust cluster ingress controls |
-| [**`enterprise-devsecops-pipeline`**](https://github.com/dspkla) | **Modular Shift-Left CI/CD Pipeline Blueprint**<br>Production-grade reusable pipeline templates embedding SAST, SCA, SBOM generation, and cryptographic Cosign attestation. | • SLSA Level 3 compliance checks<br>• TruffleHog deep commit scan<br>• Automatic release gating |
+| [**`devsecops`**](https://github.com/dspkla/devsecops) | **Modular Shift-Left CI/CD Pipeline Blueprint**<br>Production-grade reusable pipeline templates embedding SAST, SCA, SBOM generation, and cryptographic Cosign attestation. | • SLSA Level 3 compliance checks<br>• TruffleHog deep commit scan<br>• Automatic release gating |
 
 ---
 
